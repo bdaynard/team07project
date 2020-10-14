@@ -6,6 +6,7 @@
 
 ## Team Members
 Bryce Daynard
+Gyephel Tenzin
 
 ## General Info
 This browser based web application to ...
