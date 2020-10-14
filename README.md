@@ -4,6 +4,9 @@
 * [Technologies](#technologies)
 * [Contents](#content)
 
+## Team Members
+Bryce Daynard
+
 ## General Info
 This browser based web application to ...
 	
@@ -20,7 +23,8 @@ Content of the project folder:
 ```
  Top level of project folder: 
 ├── .gitignore               # Git ignore file
-├── index.html               # landing HTML file, this is what users see when you come to url
+├── index.html               # landing HTML file, this is what users    see when you come to url
+├── main.html                # homepage of the application
 └── README.md
 
 It has the following subfolders and files:
