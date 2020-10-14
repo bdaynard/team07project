@@ -4,6 +4,10 @@
 * [Technologies](#technologies)
 * [Contents](#content)
 
+## Team Members
+Bryce Daynard
+Lawrence Liang
+
 ## General Info
 This browser based web application to ...
 	
@@ -22,6 +26,7 @@ Content of the project folder:
 ├── .gitignore               # Git ignore file
 ├── index.html               # landing HTML file, this is what users see when you come to url
 ├── profile.html             # settings/profile file
+├── main.html                # homepage of the application
 └── README.md
 
 It has the following subfolders and files:
@@ -36,8 +41,6 @@ It has the following subfolders and files:
 Firebase hosting files: 
 ├── .firebaserc...
 
-Team members:
-├── Lawrence Liang
 
 ```
 
