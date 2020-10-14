@@ -6,7 +6,11 @@
 
 ## Team Members
 Bryce Daynard
+<<<<<<< HEAD
 Gyephel Tenzin
+=======
+Lawrence Liang
+>>>>>>> 764f8e665088e23d1030cc01c53574428d23ea93
 
 ## General Info
 This browser based web application to ...
@@ -24,7 +28,8 @@ Content of the project folder:
 ```
  Top level of project folder: 
 ├── .gitignore               # Git ignore file
-├── index.html               # landing HTML file, this is what users    see when you come to url
+├── index.html               # landing HTML file, this is what users see when you come to url
+├── profile.html             # settings/profile file
 ├── main.html                # homepage of the application
 └── README.md
 
