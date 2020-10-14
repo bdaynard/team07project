@@ -6,11 +6,8 @@
 
 ## Team Members
 Bryce Daynard
-<<<<<<< HEAD
 Gyephel Tenzin
-=======
 Lawrence Liang
->>>>>>> 764f8e665088e23d1030cc01c53574428d23ea93
 
 ## General Info
 This browser based web application to ...
